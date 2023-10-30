@@ -1,0 +1,11 @@
+.container{
+    width:50%;
+    height: 200px;
+   
+ 
+    background-color: black ;
+
+}
+.container button {
+    justify-content: space-around; background-color: black ;
+}
